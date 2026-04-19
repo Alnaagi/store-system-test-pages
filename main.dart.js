@@ -49422,7 +49422,7 @@ A.aS4.prototype={
 $1(a){return null},
 $S:319}
 A.aR6.prototype={
-$1(a){return"https://alnaagi-store-system-api.loca.lt"},
+$1(a){return"http://127.0.0.1:3000"},
 $S:326}
 A.aR9.prototype={
 $1(a){var s=a.Z($.dx(),t.G)
